@@ -45,3 +45,9 @@ Power BI · DAX · Excel
 - [Original analytics dashboard proposal](Analytics%20Dashboard%20Proposal.pdf)
 
 The screenshots provide previews without requiring Power BI Desktop.
+
+## Data and Limitations
+
+This coursework project uses an instructor-provided fictional business dataset. The currency is unspecified, so values are expressed in currency units (CU).
+
+Recorded surplus means income minus recorded expenses. It should not be interpreted as audited net profit or a complete assessment of business profitability.
