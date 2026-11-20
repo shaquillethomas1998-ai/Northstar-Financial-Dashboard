@@ -19,11 +19,13 @@ Power BI · DAX · Excel
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
 ### 2024 Overview
-![2024 financial overview](A4_Dashboard_2024_Overview.png)
+![2024 financial overview](Dashboard%202024%20Overview.png)
 
 ### October 2024
-![October 2024 financial overview](A4_Dashboard_October_2024.png)
+![October 2024 financial overview](Dashboard%20October%202024.png)
 
 ## Key Findings
 
