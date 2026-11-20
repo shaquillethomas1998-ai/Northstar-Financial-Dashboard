@@ -17,7 +17,6 @@ Power BI · DAX · Excel
 - Month and year filters.
 - Charts showing monthly trends, income sources and expense categories.
 
-## Dashboard Preview
 
 ## Dashboard Preview
 
@@ -38,12 +37,11 @@ Power BI · DAX · Excel
 
 ## How to Explore
 
-Download A4_Northstar_Financial_Dashboard.pbix and open it in Power BI Desktop. Use the month and year filters to explore the report.
+[Download the Power BI dashboard](Northstar%20Financial%20Dashboard.pbix) and open it in Power BI Desktop. Use the month and year filters to explore the report.
 
-The PDF report provides supporting discussion, and the PNG images offer previews without requiring Power BI.
+- [2024 dashboard overview](Dashboard%202024%20Overview.png)
+- [October 2024 dashboard view](Dashboard%20October%202024.png)
+- [Source Excel dataset](Monthly_Income_Expense_2023_2024.xlsx)
+- [Original analytics dashboard proposal](Analytics%20Dashboard%20Proposal.pdf)
 
-## Data and Limitations
-
-Built using an instructor-provided dataset. The currency is unspecified, so values are expressed in currency units (CU).
-
-Recorded surplus means income minus recorded expenses. It should not be interpreted as audited net profit or a complete assessment of business profitability.
+The screenshots provide previews without requiring Power BI Desktop.
